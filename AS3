@@ -1,0 +1,1123 @@
+import flash.events.MouseEvent;
+
+if( mi0.addEventListener(MouseEvent.CLICK, cal)) {
+   		function cal(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi0.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses:Sound=new Sound(adres);
+			ses.play();
+
+
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 	}
+	}  
+	
+else if ( mi1.addEventListener(MouseEvent.CLICK, cal2)) {
+   		function cal2(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi1.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses1:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses1.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+	else if ( mi2.addEventListener(MouseEvent.CLICK, cal3)) {
+   		function cal3(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi2.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses2:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses2.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+		else if ( mi3.addEventListener(MouseEvent.CLICK, cal4)) {
+   		function cal4(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi3.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses3:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses3.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( mi4.addEventListener(MouseEvent.CLICK, cal5)) {
+   		function cal5(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi4.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses4:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses4.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( mi5.addEventListener(MouseEvent.CLICK, cal6)) {
+   		function cal6(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi5.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses5:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses5.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( mi6.addEventListener(MouseEvent.CLICK, cal7)) {
+   		function cal7(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi6.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses6:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses6.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( mi7.addEventListener(MouseEvent.CLICK, cal8)) {
+   		function cal8(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi7.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses7:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses7.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+				else if ( mi8.addEventListener(MouseEvent.CLICK, cal9)) {
+   		function cal9(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi8.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses8:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses8.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+					else if ( mi9.addEventListener(MouseEvent.CLICK, cal10)) {
+   		function cal10(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi9.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses9:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses9.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+				else if ( mi10.addEventListener(MouseEvent.CLICK, cal11)) {
+   		function cal11(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi10.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses10:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses10.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+					else if ( mi11.addEventListener(MouseEvent.CLICK, cal12)) {
+   		function cal12(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi11.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses11:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses11.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+						else if ( mi12.addEventListener(MouseEvent.CLICK, cal13)) {
+   		function cal13(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi12.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses12:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses12.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+							else if ( mi13.addEventListener(MouseEvent.CLICK, cal14)) {
+   		function cal14(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi13.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses13:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses13.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+								else if ( mi14.addEventListener(MouseEvent.CLICK, cal15)) {
+   		function cal15(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("mi14.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses14:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses14.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+						else if ( si0.addEventListener(MouseEvent.CLICK, cal16)) {
+   		function cal16(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si0.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses15:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses15.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+							else if ( si1.addEventListener(MouseEvent.CLICK, cal17)) {
+   		function cal17(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si1.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses16:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses16.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+					else if ( si2.addEventListener(MouseEvent.CLICK, cal18)) {
+   		function cal18(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si2.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses17:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses17.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+						else if ( si3.addEventListener(MouseEvent.CLICK, cal19)) {
+   		function cal19(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si3.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses18:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses18.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+						else if ( si4.addEventListener(MouseEvent.CLICK, cal20)) {
+   		function cal20(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si4.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses19:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses19.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+							else if ( si5.addEventListener(MouseEvent.CLICK, cal21)) {
+   		function cal21(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si5.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses20:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses20.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+							else if ( si6.addEventListener(MouseEvent.CLICK, cal22)) {
+   		function cal22(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si6.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses21:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses21.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+							else if ( si7.addEventListener(MouseEvent.CLICK, cal23)) {
+   		function cal23(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si7.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses22:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses22.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+								else if ( si8.addEventListener(MouseEvent.CLICK, cal24)) {
+   		function cal24(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si8.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses23:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses23.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+								else if ( si9.addEventListener(MouseEvent.CLICK, cal25)) {
+   		function cal25(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si9.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses24:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses24.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+								else if ( si10.addEventListener(MouseEvent.CLICK, cal26)) {
+   		function cal26(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si10.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses25:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses25.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+								else if ( si11.addEventListener(MouseEvent.CLICK, cal27)) {
+   		function cal27(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si11.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses26:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses26.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+									else if ( si12.addEventListener(MouseEvent.CLICK, cal28)) {
+   		function cal28(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si12.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses27:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses27.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+								else if ( si13.addEventListener(MouseEvent.CLICK, cal29)) {
+   		function cal29(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si13.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses28:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses28.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+					else if ( si14.addEventListener(MouseEvent.CLICK, cal30)) {
+   		function cal30(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("si14.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses29:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses29.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+						else if ( sol0.addEventListener(MouseEvent.CLICK, cal31)) {
+   		function cal31(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol0.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses30:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses30.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+							else if ( sol1.addEventListener(MouseEvent.CLICK, cal32)) {
+   		function cal32(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol1.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses31:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses31.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+								else if ( sol2.addEventListener(MouseEvent.CLICK, cal33)) {
+   		function cal33(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol2.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses32:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses32.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+								else if ( sol3.addEventListener(MouseEvent.CLICK, cal34)) {
+   		function cal34(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol3.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses33:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses33.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+								else if ( sol4.addEventListener(MouseEvent.CLICK, cal35)) {
+   		function cal35(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol4.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses34:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses34.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+									else if ( sol5.addEventListener(MouseEvent.CLICK, cal36)) {
+   		function cal36(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol5.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses35:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses35.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+									else if ( sol6.addEventListener(MouseEvent.CLICK, cal37)) {
+   		function cal37(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol6.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses36:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses36.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+									else if ( sol7.addEventListener(MouseEvent.CLICK, cal38)) {
+   		function cal38(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol7.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses37:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses37.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+										else if ( sol8.addEventListener(MouseEvent.CLICK, cal39)) {
+   		function cal39(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol8.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses38:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses38.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+										else if ( sol8.addEventListener(MouseEvent.CLICK, cal40)) {
+   		function cal40(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol8.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses39:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses39.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+											else if ( sol9.addEventListener(MouseEvent.CLICK, cal41)) {
+   		function cal41(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol9.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses40:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses40.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+											else if ( sol10.addEventListener(MouseEvent.CLICK, cal42)) {
+   		function cal42(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol10.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses41:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses41.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+											else if ( sol11.addEventListener(MouseEvent.CLICK, cal43)) {
+   		function cal43(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol11.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses42:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses42.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+											else if ( sol12.addEventListener(MouseEvent.CLICK, cal44)) {
+   		function cal44(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol12.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses43:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses43.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+											else if ( sol13.addEventListener(MouseEvent.CLICK, cal45)) {
+   		function cal45(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol13.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses44:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses44.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+											else if ( sol14.addEventListener(MouseEvent.CLICK, cal46)) {
+   		function cal46(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("sol14.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses45:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses45.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+											else if ( re0.addEventListener(MouseEvent.CLICK, cal47)) {
+   		function cal47(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re0.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses46:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses46.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+												else if ( re1.addEventListener(MouseEvent.CLICK, cal48)) {
+   		function cal48(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re1.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses47:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses47.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+													else if ( re2.addEventListener(MouseEvent.CLICK, cal49)) {
+   		function cal49(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re2.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses48:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses48.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+													else if ( re3.addEventListener(MouseEvent.CLICK, cal50)) {
+   		function cal50(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re3.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses49:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses49.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+													else if ( re4.addEventListener(MouseEvent.CLICK, cal51)) {
+   		function cal51(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re4.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses50:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses50.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+													else if ( re5.addEventListener(MouseEvent.CLICK, cal52)) {
+   		function cal52(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re5.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses51:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses51.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+													else if ( re6.addEventListener(MouseEvent.CLICK, cal53)) {
+   		function cal53(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re6.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses52:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses52.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+													else if ( re7.addEventListener(MouseEvent.CLICK, cal54)) {
+   		function cal54(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re7.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses53:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses53.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+													else if ( re8.addEventListener(MouseEvent.CLICK, cal55)) {
+   		function cal55(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re8.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses54:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses54.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+													else if ( re9.addEventListener(MouseEvent.CLICK, cal56)) {
+   		function cal56(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re9.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses55:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses55.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+														else if ( re10.addEventListener(MouseEvent.CLICK, cal57)) {
+   		function cal57(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re10.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses56:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses56.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+														else if ( re11.addEventListener(MouseEvent.CLICK, cal58)) {
+   		function cal58(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re11.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses57:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses57.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+															else if ( re12.addEventListener(MouseEvent.CLICK, cal59)) {
+   		function cal59(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re12.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses58:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses58.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+															else if ( re13.addEventListener(MouseEvent.CLICK, cal60)) {
+   		function cal60(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re13.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses59:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses59.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+															else if ( re14.addEventListener(MouseEvent.CLICK, cal61)) {
+   		function cal61(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("re14.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses60:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses60.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+		
+			else if ( la0.addEventListener(MouseEvent.CLICK, cal62)) {
+   		function cal62(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la0.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses61:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses61.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( la1.addEventListener(MouseEvent.CLICK, cal63)) {
+   		function cal63(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la1.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses62:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses62.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( la2.addEventListener(MouseEvent.CLICK, cal64)) {
+   		function cal64(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la2.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses63:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses63.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( la3.addEventListener(MouseEvent.CLICK, cal65)) {
+   		function cal65(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la3.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses64:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses64.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+			else if ( la4.addEventListener(MouseEvent.CLICK, cal66)) {
+   		function cal66(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la4.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses65:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses65.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( la5.addEventListener(MouseEvent.CLICK, cal67)) {
+   		function cal67(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la5.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses66:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses66.play();
+//Mp3'ü oynat/çal.
+			
+		}
+	}
+	
+			else if ( la6.addEventListener(MouseEvent.CLICK, cal68)) {
+   		function cal68(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la6.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses67:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses67.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( la7.addEventListener(MouseEvent.CLICK, cal69)) {
+   		function cal69(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la7.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses68:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses68.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+			else if ( la8.addEventListener(MouseEvent.CLICK, cal70)) {
+   		function cal70(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la8.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses69:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses69.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+			else if ( la9.addEventListener(MouseEvent.CLICK, cal71)) {
+   		function cal71(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la9.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses70:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses70.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+				else if ( la10.addEventListener(MouseEvent.CLICK, cal72)) {
+   		function cal72(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la10.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses71:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses71.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+				else if ( la11.addEventListener(MouseEvent.CLICK, cal73)) {
+   		function cal73(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la11.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses72:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses72.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+				else if ( la12.addEventListener(MouseEvent.CLICK, cal74)) {
+   		function cal74(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la12.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses73:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses73.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+				else if ( la13.addEventListener(MouseEvent.CLICK, cal75)) {
+   		function cal75(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la13.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses74:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses74.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+				else if ( la14.addEventListener(MouseEvent.CLICK, cal76)) {
+   		function cal76(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("la14.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses75:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses75.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+				else if ( bassmi0.addEventListener(MouseEvent.CLICK, cal77)) {
+   		function cal77(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi0.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses76:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses76.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+					else if ( bassmi1.addEventListener(MouseEvent.CLICK, cal78)) {
+   		function cal78(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi1.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses77:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses77.play();
+//Mp13'ü oynat/çal.
+		}
+	}
+					else if ( bassmi2.addEventListener(MouseEvent.CLICK, cal79)) {
+   		function cal79(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi2.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses78:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses78.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+						else if ( bassmi3.addEventListener(MouseEvent.CLICK, cal80)) {
+   		function cal80(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi3.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses79:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses79.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+						else if ( bassmi4.addEventListener(MouseEvent.CLICK, cal81)) {
+   		function cal81(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi4.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses80:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses80.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+						else if ( bassmi5.addEventListener(MouseEvent.CLICK, cal82)) {
+   		function cal82(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi5.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses81:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses81.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+							else if ( bassmi6.addEventListener(MouseEvent.CLICK, cal83)) {
+   		function cal83(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi6.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses82:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses82.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+							else if ( bassmi7.addEventListener(MouseEvent.CLICK, cal84)) {
+   		function cal84(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi7.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses83:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses83.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+							else if ( bassmi8.addEventListener(MouseEvent.CLICK, cal85)) {
+   		function cal85(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi8.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses84:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses84.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+							else if ( bassmi9.addEventListener(MouseEvent.CLICK, cal86)) {
+   		function cal86(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi9.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses85:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses85.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+							else if ( bassmi10.addEventListener(MouseEvent.CLICK, cal87)) {
+   		function cal87(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi10.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses86:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses86.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+							else if ( bassmi11.addEventListener(MouseEvent.CLICK, cal88)) {
+   		function cal88(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi11.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses87:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses87.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+							else if ( bassmi12.addEventListener(MouseEvent.CLICK, cal89)) {
+   		function cal89(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi12.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses88:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses88.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+							else if ( bassmi13.addEventListener(MouseEvent.CLICK, cal90)) {
+   		function cal90(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi13.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses89:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses89.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
+							else if ( bassmi14.addEventListener(MouseEvent.CLICK, cal91)) {
+   		function cal91(e:MouseEvent):void { 
+var adres:URLRequest=new URLRequest("bassmi14.mp3");
+//URLReguest adresi hafızada saklamak için kullanılır.
+ 
+var ses90:Sound=new Sound(adres);
+//Sound un sayfa içinde bir örneğini oluşturuyoruz.
+ 
+ses90.play();
+//Mp3'ü oynat/çal.
+		}
+	}
+	
